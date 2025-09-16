@@ -25,13 +25,10 @@ A comprehensive desktop painting application built with Java Swing that provides
   - Custom color saving and loading
 - **📂 File Operations**
   - New canvas creation
-  - Open/Save project files (.paint format)
+  - Open/Save project files 
   - Export to multiple formats (PNG, JPEG, GIF, BMP)
-  - Import images as backgrounds
 - **↩️ Undo/Redo System**
-  - Full action history tracking
   - Unlimited undo/redo operations
-  - Action stack management
 
 ---
 
