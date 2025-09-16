@@ -6,7 +6,8 @@
 
 A comprehensive desktop painting application built with Java Swing that provides users with professional drawing tools, shape creation, color management, and file operations - similar to Microsoft Paint but with enhanced features.
 
-![Paint GUI Screenshot](screenshots/main-interface.png)
+<img width="982" height="790" alt="image" src="https://github.com/user-attachments/assets/eb905cd9-a079-4977-bd5c-69278dbba981" />
+
 
 ## 🚀 Features
 
