@@ -1,0 +1,3 @@
+public enum Modes {
+    RECTANGLE,OVAL,LINE,FREE,DEFAULT,ERASER
+}
